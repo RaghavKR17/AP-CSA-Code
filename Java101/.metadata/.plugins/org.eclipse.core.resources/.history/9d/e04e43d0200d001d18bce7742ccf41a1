@@ -1,0 +1,15 @@
+
+public class Car {
+	
+	void start() {
+		System.out.println("\nGet Started!");
+	}
+	Car(String c1, String t1) {
+		color = c1;
+		type = t1;
+	}
+	public String getDescription() {
+		String description = "This is a " + c + " " + t;
+		return description;
+	}
+}

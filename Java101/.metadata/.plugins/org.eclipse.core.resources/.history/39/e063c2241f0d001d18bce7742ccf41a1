@@ -1,0 +1,12 @@
+ 
+public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("Hello, World!");
+		
+		Car myCar = new Car();
+		myCar.start();
+		myCar.color = "Red";
+		myCar.type = "Tesla";
+		print("ge")
+	}
+}
